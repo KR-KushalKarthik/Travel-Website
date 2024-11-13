@@ -1,3 +1,18 @@
+# HomePage
+<img src="https://i.postimg.cc/d0PdX60W/Whats-App-Image-2024-07-05-at-10-22-15-7d0e04fe.jpg(https://postimg.cc/QHkJSbVv)" alt="project-screenshot" width="600" height="600/">
+
+# Adventure Idea
+<img src="https://i.postimg.cc/wvFm1dQP/Whats-App-Image-2024-07-05-at-10-22-16-0994fa59.jpg(https://postimg.cc/v40LwZrz)" alt="project-screenshot" width="600" height="600/">
+
+# Popular Packages
+<img src="https://i.postimg.cc/vTNxvLjt/Whats-App-Image-2024-07-05-at-10-22-16-44e1b605.jpg(https://postimg.cc/CzNbbxQg)" alt="project-screenshot" width="600" height="600/">
+
+# Contact Us
+<img src="https://i.postimg.cc/9Mc9XfZZ/Whats-App-Image-2024-07-05-at-10-27-23-eec2f38a.jpg(https://postimg.cc/TpRCzF8T)" alt="project-screenshot" width="600" height="600/">
+
+
+
+
 # Friends Travel Website
 
 This is a travel website designed to provide users with a variety of travel packages, adventure ideas, and an easy way to browse through popular destinations. 
