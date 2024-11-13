@@ -1,16 +1,13 @@
+# Friends Travel Website
+
+This is a travel website designed to provide users with a variety of travel packages, adventure ideas, and an easy way to browse through popular destinations. 
 # HomePage
 
 # Adventure Idea
 
-
 # Popular Packages
 
-
 # Contact Us
-# Friends Travel Website
-
-This is a travel website designed to provide users with a variety of travel packages, adventure ideas, and an easy way to browse through popular destinations. 
-
 ## Features
 
 - **Home Page**: A welcoming homepage introducing the travel services.
