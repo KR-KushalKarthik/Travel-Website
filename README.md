@@ -7,10 +7,6 @@
 
 
 # Contact Us
-<img src="https://i.postimg.cc/ncmgDf09/Screenshot-2024-11-13-105556.png" alt="project-screenshot" width="600" height="600/"
-
-
-
 # Friends Travel Website
 
 This is a travel website designed to provide users with a variety of travel packages, adventure ideas, and an easy way to browse through popular destinations. 
