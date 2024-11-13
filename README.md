@@ -5,11 +5,14 @@ This is a travel website designed to provide users with a variety of travel pack
 <img src="https://i.postimg.cc/C55YgrgH/Screenshot-2024-11-13-112513.png" style="max-width: 100%; height: auto;" />
 
 # Adventure Idea
-<img src="https://i.postimg.cc/sxQ8mkz8/Screenshot-2024-11-13-113846.png" style="max-width: 100%; height: auto;" />
+<img src="https://i.postimg.cc/sxQ8mkz8/Screenshot-2024-11-13-113846.png" style="max-width: 100%; height: auto;" /> 
+
 # Popular Packages
 <img src="https://i.postimg.cc/QtnwpX21/Screenshot-2024-11-13-113922.png" style="max-width: 100%; height: auto;" />
+
 # Contact Us
 <img src="https://i.postimg.cc/ncmgDf09/Screenshot-2024-11-13-105556.png" style="max-width: 100%; height: auto;" />
+
 ## Features
 
 - **Home Page**: A welcoming homepage introducing the travel services.
