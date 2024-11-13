@@ -2,7 +2,8 @@
 
 This is a travel website designed to provide users with a variety of travel packages, adventure ideas, and an easy way to browse through popular destinations. 
 # HomePage
-<img src="![Home Page]https://i.postimg.cc/C55YgrgH/Screenshot-2024-11-13-112513.png" style="max-width: 100%; height: auto;" />
+<img src="https://i.postimg.cc/C55YgrgH/Screenshot-2024-11-13-112513.png" style="max-width: 100%; height: auto;" />
+
 # Adventure Idea
 
 # Popular Packages
